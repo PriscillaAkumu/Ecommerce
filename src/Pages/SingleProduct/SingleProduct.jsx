@@ -9,7 +9,7 @@ import  { CartContext } from '../../Context/CartContext';
 import './colors.css';
 import './size.css';
 import './addToCart.css';
-import './ProductDetail.css';
+import './productDetail.css';
 import Footer from '../../components/Footer/Footer';
 //  import Line from '../images/hr.png';
 
